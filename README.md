@@ -17,7 +17,9 @@ Crie um arquivo `.env` no seu diretório home para armazenar a chave de forma se
 # Substitua SUA_API_KEY_AQUI pela sua chave real
 echo 'GOOGLE_API_KEY="SUA_API_KEY_AQUI"' > ~/.env
 ```
-Crie sua Google AI Studio key aqui ['Google IA Studio API Key'](https://aistudio.google.com/app/apikey)
+Crie sua Google AI Studio key aqui [Google IA Studio API Key](https://aistudio.google.com/app/apikey) 
+<a href="https://aistudio.google.com/app/apikey" target="_blank">Google IA Studio API Key</a>
+
 #### Passo 2: O Script Python (`gemini-chat.py`)
 Crie o arquivo [`gemini-chat.py`](/gemini-chat.py) (em uma pasta de projetos) com o código Python final que se conecta à API, lê argumentos e gerencia a conversa. *Use o código completo da resposta anterior.*
 
