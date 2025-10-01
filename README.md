@@ -108,14 +108,11 @@ pip3 install google-generativeai python-dotenv
 
 ---
 
-### Fluxograma Mermaid Atualizado
+### Fluxograma
 - **Fazer uma Pergunta sobre um Arquivo:**
   ```bash
   gemini quais foram os principais pontos levantados no terceiro trimestre? -f ./relatorio.txt"
   ```
-
-
-### Fluxograma Mermaid Final e Corrigido (Versão para .md)
 
 ```mermaid
 flowchart TD
